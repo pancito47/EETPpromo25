@@ -1,0 +1,167 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: beige;
+}
+.header ul{
+    display: flex;
+    flex-direction: row;
+}
+header ul li{
+    margin: 10px;
+}
+header nav ul li{
+    display: flex;
+    flex-direction: row;
+  list-style: none;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(39, 92, 33); 
+    text-decoration: none;
+}
+.logo_enca img{
+    height: 95px;
+}
+body{
+    background-color: beige;
+}  
+h1{
+    display: flex;
+    color: rgb(26, 80, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    background-color: beige;
+}
+.carteles{
+    display: flex;
+    flex-direction: row;
+    height: 300px; 
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+.aylen{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.aylen img{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    
+}
+
+ h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.entradav iframe{
+display: flex;
+flex-direction: row;
+height: 530px
+}
+h1{
+    background-color: rgb(96, 122, 77);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.videus{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    justify-content: space-between ;
+    
+}
+
+.entrada img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    justify-content: space-between;
+}
+.entrada{
+    display: flex;
+    flex-direction: row;
+    
+}
+.masimagenes{
+    display: flex;
+    flex-direction: row;
+}
+.masimagenes img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.calidadai{
+    display: flex;
+    flex-direction: row;
+}
+.calidadai img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.MASSS{
+    display: flex;
+    flex-direction: row;
+}
+.MASSS img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.fotuliss{
+    display: flex;
+    flex-direction: row;
+}
+.fotuliss img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.nosotros{
+    display: flex;
+    flex-direction: row;
+}
+.nosotros img{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between 
+}
+.euforia {
+    display: flex;
+    flex-direction: row;
+}
+.euforia img{
+    
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: space-between 
+}
